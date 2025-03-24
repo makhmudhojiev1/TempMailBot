@@ -11,7 +11,7 @@ import re        # Regular Expression
 
 
 # Bot token to use
-Token = "Your Token"
+Token = "7481793222:AAHzLRvIHvq0ZvuJ1xRBIO72lE-12WelBGY"
 
 
 # Decode and format MIME mail
